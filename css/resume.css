@@ -1,0 +1,193 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+html{
+	width: 100%;
+	height: 100%;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background-color: rgb(238, 238, 238);
+    font: normal 100% Helvetica, Arial, sans-serif;
+}
+dt{
+	background-color: rgba(140, 140, 140, 0.2);
+}
+h1{
+	font-size: 1.5em; 
+}
+/* div{
+	border:1px solid #000;
+} */
+@media screen and (max-width: 400px){
+	.contain-div{
+	    position: absolute;
+	    width: 100%;
+	    height: 100%;
+    }
+
+    .left-div{
+	    position: relative;
+	    background-color: rgba(0, 153, 102, 0.6);
+	    padding: 10px;
+	    width: 100%;
+	    height: 100%;
+    }
+    .name-div{
+    	text-align: center;
+    	margin: 0 auto;
+	    color: rgb(255, 255, 255);
+    }
+    .wechat-div,
+    .email-div,
+    .career-div,
+    .information-div,
+    .advance-div{
+	    color: rgb(255, 255, 255);
+    }
+    .head-img{
+    	width: 150px;
+    	height: 150px;
+    }
+    .contact-div{
+    	margin: 0 auto;
+    }
+    .right-div{
+	    padding: 10px;
+	    position: relative;
+	    background-color: rgb(255, 255, 255);
+	    width: 100%;
+	    height: 100%;
+    }
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+	.contain-div{
+	    position: absolute;
+        left: 10%;
+	    width: 80%;
+	    height: 100%;
+    }
+
+    .left-div{
+	    position: relative;
+	    background-color: rgba(0, 153, 102, 0.6);
+	    padding: 10px;
+	    width: 100%;
+	    height: 100%;
+    }
+    .name-div{
+    	text-align: center;
+    	margin: 0 auto;
+	    color: rgb(255, 255, 255);
+    }
+    .wechat-div,
+    .email-div,
+    .career-div,
+    .information-div,
+    .advance-div{
+	    color: rgb(255, 255, 255);
+    }
+    .head-img{
+    	width: 150px;
+    	height: 150px;
+    }
+    .contact-div{
+    	margin: 0 auto;
+    }
+    .right-div{
+	    padding: 10px;
+	    position: relative;
+	    background-color: rgb(255, 255, 255);
+	    width: 100%;
+	    height: 100%;
+    }
+}
+@media screen and (min-width: 1000px) and (max-width: 1300px){
+	.contain-div{
+	    position: absolute;
+	    width: 100%;
+	    height: 100%;
+    }
+
+    .left-div{
+	    position: relative;
+	    float: left;
+	    background-color: rgba(0, 153, 102, 0.6);
+	    padding: 10px;
+	    width: 28%;
+	    height: 100%;
+    }
+    .name-div{
+    	text-align: center;
+    	margin: 0 auto;
+	    color: rgb(255, 255, 255);
+    }
+    .wechat-div,
+    .email-div,
+    .career-div,
+    .information-div,
+    .advance-div{
+	    color: rgb(255, 255, 255);
+    }
+    .head-img{
+    	width: 150px;
+    	height: 150px;
+    }
+    .contact-div{
+    	margin: 0 auto;
+    }
+    .right-div{
+	    padding: 10px;
+	    position: relative;
+	    float: left;
+	    background-color: rgb(255, 255, 255);
+	    width: 68%;
+	    height: 100%;
+    }
+}
+@media screen and (min-width: 1300px){
+	.contain-div{
+	    position: absolute;
+        left: 10%;
+	    width: 80%;
+	    height: 100%;
+    }
+
+    .left-div{
+	    position: relative;
+	    float: left;
+	    background-color: rgba(0, 153, 102, 0.6);
+	    padding: 10px;
+	    width: 28%;
+	    height: 100%;
+    }
+    .name-div{
+    	text-align: center;
+    	margin: 0 auto;
+	    color: rgb(255, 255, 255);
+    }
+    .wechat-div,
+    .email-div,
+    .career-div,
+    .information-div,
+    .advance-div{
+	    color: rgb(255, 255, 255);
+    }
+    .head-img{
+    	width: 150px;
+    	height: 150px;
+    }
+    .contact-div{
+    	margin: 0 auto;
+    }
+    .right-div{
+	    padding: 10px;
+	    position: relative;
+	    float: left;
+	    background-color: rgb(255, 255, 255);
+	    width: 68%;
+	    height: 100%;
+    }
+}

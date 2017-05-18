@@ -1,0 +1,47 @@
+body{
+	background-color:#eee;
+}
+dt{
+	background:#aaa;
+}
+/* div{
+	border:1px solid #000;
+} */
+.e-contain-div{
+	position:fixed;
+	padding:0 140px;
+	margin:0 auto;
+}
+.e-left-div{
+	position:relative;
+	float:left;
+	background-color:#096;
+	padding:10px;
+	height:700px;
+}
+.e-name-div{
+	text-align:center;
+	margin:0 auto;
+	color:#fff;
+}
+.e-wechat-div,
+.e-email-div,
+.e-career-div,
+.e-information-div,
+.e-advance-div{
+	color:#fff;
+}
+.e-head-img{
+	width:170px;
+	height:170px;
+}
+.e-contact-div{
+	margin:0 auto;
+}
+.e-right-div{
+	padding:10px;
+	position:relative;
+	float:left;
+	background-color:#fff;
+	height:700px;
+}
