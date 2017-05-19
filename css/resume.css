@@ -12,6 +12,9 @@ body{
 	background-color: rgb(238, 238, 238);
     font: normal 100% Helvetica, Arial, sans-serif;
 }
+td{
+	text-align: center;
+}
 dt{
 	background-color: rgba(140, 140, 140, 0.2);
 }
@@ -43,6 +46,7 @@ dd{
     	margin: 0 auto;
 	    color: rgb(255, 255, 255);
     }
+	.tel-div,
     .wechat-div,
     .email-div,
     .career-div,
@@ -85,6 +89,7 @@ dd{
     	margin: 0 auto;
 	    color: rgb(255, 255, 255);
     }
+	.tel-div,
     .wechat-div,
     .email-div,
     .career-div,
@@ -127,6 +132,7 @@ dd{
     	margin: 0 auto;
 	    color: rgb(255, 255, 255);
     }
+	.tel-div,
     .wechat-div,
     .email-div,
     .career-div,
@@ -157,7 +163,6 @@ dd{
 	    width: 80%;
 	    height: 100%;
     }
-
     .left-div{
 	    position: relative;
 	    float: left;
@@ -171,6 +176,7 @@ dd{
     	margin: 0 auto;
 	    color: rgb(255, 255, 255);
     }
+	.tel-div,
     .wechat-div,
     .email-div,
     .career-div,
