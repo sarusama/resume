@@ -4,14 +4,9 @@
 	font: normal 100% Helvetica, Arial, sans-serif;
 }
 html{
-	font-size: 62.5%;/*10 / 16 * 100%*/
+	/*font-size: 62.5%;10 / 16 * 100%*/
 	width: 100%;
 	height: 100%;
-}
-@media screen and (max-width: 600px) {
-	html {
-		font-size: 100%;
-	}
 }
 body{
 	width: 100%;
