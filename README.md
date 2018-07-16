@@ -23,7 +23,7 @@
 
 #### 会员日小游戏活动页
 项目涉及技术：HTML5、CSS3、JS
-主要职责：根据需求寻找适合小游戏，并对其进行改造；还原UI设计稿；对接后端。
+主要职责：寻找小游戏源码；还原UI设计稿；对接后端。
 
 #### 吃货属性小鉴定
 项目涉及技术：react、redux
@@ -35,5 +35,5 @@
 
 
 [简历](https://sarusama.github.io/resume/html/resume.html)
-[resume](https://sarusama.github.io/resume/html/resume_english.html)
+
 
